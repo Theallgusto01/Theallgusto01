@@ -1,9 +1,9 @@
 <h1 align="center">
-	Estudos
+	Thiago Augusto
 </h1>
 
 <h3 align="center">
-	Meu repositório de anotações e projetos de aprendizado pessoal
+	Estudante de Ciência da Computação, futuro desenvolvedor e apoiador de software open-source!!! ❤️ Linux 🐧!!!
 </h3>
 
 <p align="center">
