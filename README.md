@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/theallgusto" target="_blank"><img src="https://img.shields.io/badge/theallgusto-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
-I'm a brazilian computer science student at Instituto Federal do Ceará, future Full stack developer and open-source software supporter!!! :heart Linux :penguin!!!
+I'm a brazilian computer science student at Instituto Federal do Ceará, future Full stack developer and open-source software supporter!!! ❤️ Linux 🐧!!!
 
 ## About me
 🔭&nbsp;I’m currently working on **Studying for be a Full Stack Developer!**
