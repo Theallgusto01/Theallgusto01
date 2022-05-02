@@ -8,7 +8,7 @@
 I'm a brazilian computer science student at Instituto Federal do Ceará, future Full stack developer and open-source software supporter!!!
 ❤️Linux🐧
 
-## About me
+## 👦 About me
 🔭&nbsp;I’m currently working on **Studying for be a Full Stack Developer!**
 <br/>🎓&nbsp;Graduated in **Computer Science ( but just in 2025 😅)**
 <br/>🌱&nbsp;Learning about **Web Development, and english!**
@@ -16,7 +16,8 @@ I'm a brazilian computer science student at Instituto Federal do Ceará, future 
 <br/>💬&nbsp;Ask me about **Linux😎**
 <br/>🤝&nbsp;I like to collaborate in **do i need tell?😆**
 <br/>📫&nbsp;Reach me [augusto.dev01@gmail.com](mailto:augusto.dev01@gmail.com)
-
+## 🚧 Projects
+<a href="https://theallgusto01.github.io/Estudos/projeto-pag-instagram/index.html" target="_blank"><img src="https://img.shields.io/badge/Projeto-Instagram%20home%20page-05122A"></a>
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
