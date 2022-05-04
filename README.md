@@ -24,6 +24,8 @@ I'm a brazilian computer science student at Instituto Federal do Ceará, future 
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 
+  ![Snake animation](https://github.com/Theallgusto01/Theallgusto01/blob/output/github-contribution-grid-snake.svg)
+
 ## GitHub Analytics
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Theallgusto01&theme=onedark&show_icons=true&count_private=true">
