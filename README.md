@@ -17,7 +17,10 @@ I'm a brazilian computer science student at Instituto Federal do Ceará, future 
 <br/>🤝&nbsp;I like to collaborate in **do i need tell?😆**
 <br/>📫&nbsp;Reach me [augusto.dev01@gmail.com](mailto:augusto.dev01@gmail.com)
 ## 🚧 Projects
-<a href="https://theallgusto01.github.io/Estudos/projeto-pag-instagram/index.html" target="_blank"><img src="https://img.shields.io/badge/Projeto-Instagram%20home%20page-05122A"></a>
+<a href="https://theallgusto01.github.io/Estudos/projeto-pag-instagram/index.html" target="_blank"><img src="https://img.shields.io/badge/Projeto-Instagram%20home%20page-05122A"></a><br>
+<a href="https://theallgusto01.github.io/hiring-coders/projeto-portifolio-css/" target="_blank"><img src="https://img.shields.io/badge/Projeto-Portf%C3%B3lio%20pessoal-05122A"></a>
+
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
